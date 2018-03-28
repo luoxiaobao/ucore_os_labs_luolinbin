@@ -1,7 +1,7 @@
 # ucore_os_labs_luolinbin
 ucore_os_labs
 # Lab2 Report
-#### 计43 沈天成 2014010646
+#### 计45 罗琳彬 2014011409
 ---
 
 ### 练习1：实现 first-fit 连续物理内存分配算法
